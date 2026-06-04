@@ -1,5 +1,7 @@
 # Linux Tweet App
 
+![Build-Push-And-Test Workflow](https://github.com/SRO-MCY/autobuilds/actions/workflows/build-push-and-deploy.yml/badge.svg)
+
 This is a very simple NGINX website that allows a user to send a tweet. 
 
 It's mostly used as a sample application for Docker 101 workshops. 
